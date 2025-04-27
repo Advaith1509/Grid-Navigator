@@ -3,8 +3,6 @@
 A dynamic, interactive web-based platform to visualize popular pathfinding algorithms — including BFS, DFS, Dijkstra’s, and A* — in real-time.  
 Built with core web technologies and designed to promote deeper algorithmic understanding through engaging, hands-on simulations.
 
-🌐 **Live Demo :** [Grid-Navigator Website](https://advaith1509.github.io/Grid-Navigator/)
-
 ---
 
 ## **_🚀 Project Overview_**
