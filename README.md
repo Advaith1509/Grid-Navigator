@@ -1,14 +1,14 @@
 # _**Grid-Navigator: A Graph-Theoretic Pathfinding Simulator**_
 
-A dynamic, interactive web-based platform to visualize popular pathfinding algorithms — including BFS, DFS, Dijkstra’s, and A* — in real-time.  
-Built with core web technologies and designed to promote deeper algorithmic understanding through engaging, hands-on simulations.
+- A dynamic, interactive web-based platform to visualize popular pathfinding algorithms — including BFS, DFS, Dijkstra’s, and A* — in real-time.  
+- Built with core web technologies and designed to promote deeper algorithmic understanding through engaging, hands-on simulations.
 
 ---
 
 ## **_🚀 Project Overview_**
 
-**Grid-Navigator** enables users to create custom grids, draw obstacles, set start/end nodes, and watch various search algorithms dynamically explore the space and find optimal paths.  
-Designed for students, educators, and enthusiasts looking to bridge the gap between theoretical understanding and real-world algorithm behavior.
+- **Grid-Navigator** enables users to create custom grids, draw obstacles, set start/end nodes, and watch various search algorithms dynamically explore the space and find optimal paths.  
+- Designed for students, educators, and enthusiasts looking to bridge the gap between theoretical understanding and real-world algorithm behavior.
 
 ---
 
