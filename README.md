@@ -59,8 +59,8 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hecker-200/DSA-FINAL.git
+   git clone https://github.com/Advaith1509/Grid-Navigator.git
 2. Navigate to the project directory:
    ```bash
-   cd DSA-FINAL
+   cd Grid-Navigator
 3. Open `index.html` in your preferred web browser.
