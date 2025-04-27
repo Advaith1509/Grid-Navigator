@@ -22,33 +22,33 @@
 
 ## **_🧠 Features_**
 
-- 🧭 **Algorithms Implemented:**
+- 🧭 _**Algorithms Implemented:**_
   - Depth-First Search (DFS)
   - Breadth-First Search (BFS)
   - Dijkstra's Algorithm
   - A* (A-Star) Search Algorithm
 
-- 🧱 **Interactive Grid:**
+- 🧱 _**Interactive Grid:**_
   - Draw and erase walls manually
   - Set custom start and end nodes
   - Visual animations of exploration and pathfinding
 
-- 🕹️ **Controls:**
+- 🕹️ _**Controls:**_
   - Dropdown menu to select algorithms
   - Buttons for visualization, reset, and clear
 
-- 🖥️ **Responsive Design:**
+- 🖥️ _**Responsive Design:**_
   - Works smoothly across all modern browsers and screen sizes
 
 ---
 
 ## **_🛠️ Tools Used_**
 
-- **HTML5** — Structure and content
-- **CSS3** — Layout and styling
-- **JavaScript (ES6)** — Logic and DOM interactions
-- **GSAP (GreenSock Animation Platform)** — Smooth, performant animations
-- **Canvas API** — 2D Grid Rendering and Interaction
+- _**HTML5**_ — Structure and content
+- _**CSS3**_ — Layout and styling
+- _**JavaScript (ES6)**_ — Logic and DOM interactions
+- _**GSAP (GreenSock Animation Platform)**_ — Smooth, performant animations
+- _**Canvas API**_ — 2D Grid Rendering and Interaction
 
 ---
 
