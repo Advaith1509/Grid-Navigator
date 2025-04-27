@@ -1,6 +1,6 @@
 # _**Grid-Navigator: A Graph-Theoretic Pathfinding Simulator**_
 
-This repository is the culmination of our Data Structures and Algorithms (DSA) course project. The project showcases our understanding and implementation of graph traversal and pathfinding algorithms through a highly interactive and visually intuitive web platform.
+The project showcases my understanding and implementation of graph traversal and pathfinding algorithms through a highly interactive and visually intuitive web platform.
 
 🌐 **Live Demo :** [Grid-Navigator Website](https://hecker-200.github.io/DSA-FINAL/)
 
