@@ -1,16 +1,15 @@
 # _**Grid-Navigator: A Graph-Theoretic Pathfinding Simulator**_
 
-The project showcases my understanding and implementation of graph traversal and pathfinding algorithms through a highly interactive and visually intuitive web platform.
-
-🌐 **Live Demo :** [Grid-Navigator Website](https://Advaith1509.github.io/Grid-Navigator/)
+A dynamic, interactive web-based platform to visualize popular pathfinding algorithms — including BFS, DFS, Dijkstra’s, and A* — in real-time.  
+Built with core web technologies and designed to promote deeper algorithmic understanding through engaging, hands-on simulations.
+🌐 **Live Demo :** [Grid-Navigator Website](https://advaith1509.github.io/Grid-Navigator/)
 
 ---
 
 ## **_🚀 Project Overview_**
 
-Grid-Navigator is a web application that visualizes popular pathfinding algorithms in real-time. Built using core web technologies, it allows users to draw walls, place start/end nodes, and run different algorithms to observe how they explore the grid and find the shortest path.
-
-This platform is designed to enhance algorithmic understanding through engaging, hands-on interaction.
+**Grid-Navigator** enables users to create custom grids, draw obstacles, set start/end nodes, and watch various search algorithms dynamically explore the space and find optimal paths.  
+Designed for students, educators, and enthusiasts looking to bridge the gap between theoretical understanding and real-world algorithm behavior.
 
 ---
 
@@ -18,7 +17,7 @@ This platform is designed to enhance algorithmic understanding through engaging,
 
 - `index.html` — The main HTML file structures the application layout.
 - `style.css` — Stylesheet for layout, grid design, and animations.
-- `script.js` — Contains implementation of the core algorithms and visualization logic.
+- `script.js` — Implements the core algorithms and visualization logic.
 
 ---
 
@@ -50,6 +49,7 @@ This platform is designed to enhance algorithmic understanding through engaging,
 - **CSS3** — Layout and styling
 - **JavaScript (ES6)** — Logic and DOM interactions
 - **GSAP (GreenSock Animation Platform)** — Smooth, performant animations
+- **Canvas API** — 2D Grid Rendering and Interaction
 
 ---
 
@@ -57,10 +57,11 @@ This platform is designed to enhance algorithmic understanding through engaging,
 
 To run the project locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Advaith1509/Grid-Navigator.git
-2. Navigate to the project directory:
-   ```bash
-   cd Grid-Navigator
-3. Open `index.html` in your preferred web browser.
+```bash
+# Clone the repository
+git clone https://github.com/Advaith1509/Grid-Navigator.git
+
+# Navigate to the project directory
+cd Grid-Navigator
+
+# Open index.html directly in your preferred web browser
