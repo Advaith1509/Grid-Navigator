@@ -5,14 +5,14 @@
 
 ---
 
-## **_🚀 Project Overview_**
+## **_Project Overview_**
 
 - **Grid-Navigator** enables users to create custom grids, draw obstacles, set start/end nodes, and watch various search algorithms dynamically explore the space and find optimal paths.  
 - Designed for students, educators, and enthusiasts looking to bridge the gap between theoretical understanding and real-world algorithm behavior.
 
 ---
 
-## **_📁 Repository Structure_**
+## **_Repository Structure_**
 
 - `index.html` — The main HTML file structures the application layout.
 - `style.css` — Stylesheet for layout, grid design, and animations.
@@ -20,29 +20,29 @@
 
 ---
 
-## **_🧠 Features_**
+## **_Features_**
 
-- 🧭 _**Algorithms Implemented:**_
+- _**Algorithms Implemented:**_
   - Depth-First Search (DFS)
   - Breadth-First Search (BFS)
   - Dijkstra's Algorithm
   - A* (A-Star) Search Algorithm
 
-- 🧱 _**Interactive Grid:**_
+- _**Interactive Grid:**_
   - Draw and erase walls manually
   - Set custom start and end nodes
   - Visual animations of exploration and pathfinding
 
-- 🕹️ _**Controls:**_
+- _**Controls:**_
   - Dropdown menu to select algorithms
   - Buttons for visualization, reset, and clear
 
-- 🖥️ _**Responsive Design:**_
+- _**Responsive Design:**_
   - Works smoothly across all modern browsers and screen sizes
 
 ---
 
-## **_🛠️ Tools Used_**
+## **_Tools Used_**
 
 - _**HTML5**_ — Structure and content
 - _**CSS3**_ — Layout and styling
@@ -52,7 +52,7 @@
 
 ---
 
-## **_📌 Getting Started_**
+## **_Getting Started_**
 
 To run the project locally:
 
